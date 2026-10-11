@@ -1,6 +1,6 @@
 {
   "name": "@sidebandchat/tunes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Observe system media sessions from Node.js and Electron",
   "main": "index.js",
   "types": "index.d.ts",
